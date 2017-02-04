@@ -6,7 +6,6 @@ public class Application {
     }
 
     public String sayHello() {
-        return null;
+        return "Hello world!";
     }
-
 }

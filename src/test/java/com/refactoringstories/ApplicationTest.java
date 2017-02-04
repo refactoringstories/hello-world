@@ -10,7 +10,7 @@ public class ApplicationTest {
     @Test
     public void helloIsReturned() throws Exception {
         // GIVEN
-        String expected = "Hello World!";
+        String expected = "Hello world!";
         Application application = new Application();
 
         // WHEN
